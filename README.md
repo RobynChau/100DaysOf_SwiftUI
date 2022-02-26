@@ -4,3 +4,5 @@ This repository was created for the purpose of noting the process of learning Sw
 The repository includes two main folders namely Playgrounds and XCode. Each folder contains the source code created using Playgrounds 4 on the Ipad or XCode on the Mac.
 
 Furthermore, while the course has a long list of amazing projects to learn from, I believe some technical projects do not need to be shared as the main point of them is to follow instructions. Therefore, I only upload the big projects that are packed with many skills
+
+Last but not least, I would like to thank [Paul Hudson](https://twitter.com/twostraws?s=21) for an amazing course and his efforts in helping the community
