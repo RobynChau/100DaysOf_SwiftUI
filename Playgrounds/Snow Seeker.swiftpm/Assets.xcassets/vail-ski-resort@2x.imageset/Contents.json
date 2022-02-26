@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "vail-ski-resort@2x.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
