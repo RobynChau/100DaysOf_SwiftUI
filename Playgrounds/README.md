@@ -1,0 +1,3 @@
+This folder contains the source code files for Course 100 Days of SwiftUI. The source code was created using SwiftUI and Playgrounds 4 app on the Ipads.
+
+To open and build these source code files, XCode and Playgrounds 4 on the Macs are suitable. Furthermore, if you are also learning SwiftUI using the Ipads and want to manage, import and commit source code files on your own, I suggest using the [Working Copy application](https://apps.apple.com/vn/app/working-copy-git-client/id896694807) side-by-side with the Playgrounds 4.
